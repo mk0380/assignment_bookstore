@@ -1,5 +1,3 @@
-Sure, here's a simplified `README.md` for ReadRover:
-
 # ReadRover
 
 Welcome to **ReadRover** – your ultimate destination for discovering, reading, and organizing your favorite books online.
